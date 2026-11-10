@@ -1,0 +1,14 @@
+arch
+catboost
+jupyterlab
+joblib
+kagglehub
+matplotlib
+numpy
+openpyxl
+pandas
+scikit-learn>=1.4
+scipy
+seaborn
+statsmodels
+xgboost
